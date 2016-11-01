@@ -1,0 +1,17 @@
+#Thu Aug 08 14:30:49 CST 2013
+eclipse.preferences.version=1
+encoding//src/java/org/sg/sgg/HardWare/HardWareUtils.java=GBK
+encoding//src/java/org/sg/sgg/base64/Base64Utils.java=UTF-8
+encoding//src/java/org/sg/sgg/date=UTF-8
+encoding//src/java/org/sg/sgg/date/DateUtils.java=UTF-8
+encoding//src/java/org/sg/sgg/file/FileUtils.java=UTF-8
+encoding//src/java/org/sg/sgg/httpConnectionTool/HttpConnectionTool.java=GBK
+encoding//src/java/org/sg/sgg/jdbc=GBK
+encoding//src/java/org/sg/sgg/json/JSONUtils.java=GBK
+encoding//src/java/org/sg/sgg/property/propertyUtils.java=GBK
+encoding//src/java/org/sg/sgg/reflect/ReflectionUtils.java=UTF-8
+encoding//src/java/org/sg/sgg/sort=gbk
+encoding//src/java/org/sg/sgg/string/StringUtils.java=UTF-8
+encoding//src/java/org/sg/sgg/struts2=GBK
+encoding//src/test/org/sg/sgg/test1/ReflectionUtilTest.java=UTF-8
+encoding/<project>=UTF-8
